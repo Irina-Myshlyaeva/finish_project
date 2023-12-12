@@ -1,0 +1,64 @@
+.slider_skills img{
+    height: 150px;
+    width: 150px;
+}
+
+.content_skills{
+    text-align: center;
+    text-align: -webkit-center;
+}
+
+.content_skills .slick-list img{
+    width: 150px !important;
+    height: auto;
+}
+
+.content_skills .slick-list{
+    width: 600px;
+}
+
+.content_skills .slick-prev {
+    left: 270px;
+}
+
+.content_skills .slick-next {
+    right: 270px;
+}
+
+.portfolio-container {
+    text-align: center;
+    background-image: url('../../background.png');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+
+.portfolio-container h1, .portfolio-container h3, .portfolio-container p, .portfolio-container h2{
+    color: #fff;
+}
+
+.portfolio-container h1{
+        font-size: 48px;
+        margin-top: 0px;
+        padding-top: 50px;
+}
+
+.portfolio-container p{
+    font-size: 18px;
+}
+
+.portfolio-container h2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.slider_skills{
+    background-color: rgb(206, 203, 203);
+    border-radius: 10px;
+    max-width: 1200px;
+    opacity: 0.8;
+}
+
+
+
